@@ -96,10 +96,10 @@ Lo primero que vamos a hacer es clonar el repositorio del taller. Para ello, abr
 
 ```shell
 # Clonamos el repo:
-https://github.com/MartinM10/SWC-128-Example.git
+https://github.com/MartinM10/VulnerableRenewableEnergy.git
 
 # Abrimos la carpeta creada
-cd SWC-128-Example
+cd VulnerableRenewableEnergy
 ```
 
 A continuación instalaremos las dependencias y compilaremos el proyecto para comprobar que todo está correcto.
