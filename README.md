@@ -96,10 +96,10 @@ Lo primero que vamos a hacer es clonar el repositorio del taller. Para ello, abr
 
 ```shell
 # Clonamos el repo:
-https://github.com/MartinM10/VulnerableRenewableEnergy.git
+https://github.com/MartinM10/SWC-128-Example.git
 
 # Abrimos la carpeta creada
-cd VulnerableRenewableEnergy
+cd SWC-128-Example
 ```
 
 A continuación instalaremos las dependencias y compilaremos el proyecto para comprobar que todo está correcto.
@@ -310,7 +310,7 @@ function unpause() external onlyOwner {
 
 A continuación se muestra un diagrama que muestra el funcionamiento más destacable del smart contract de manera visual. Generado con [draw.io](https://app.diagrams.net/)
 
-![Diagrama_01](/resources/Diagrama.png)
+![Diagrama_01](/resources/Diagram.svg)
 
 ## Pruebas y Seguridad 🧪
 
@@ -590,13 +590,20 @@ En resumen:
 
 Este es el proceso que sigue un auditor de contratos inteligentes. Interpreta y analiza el contrato en busca de vulnerabilidades, y si encuentra alguna, realiza una prueba de concepto para comprobar que es real.
 
-Espero que hayas disfrutado del taller, y que hayas aprendido algo nuevo. Si tienes cualquier duda o sugerencia, no dudes en abrir un issue en el repositorio. Si quieres ver otra vulnerabilidad te dejo otro repositorio desarrollado con el mismo fin y siguiendo la misma metodología. 
+Espero que hayas disfrutado del taller, y que hayas aprendido algo nuevo. Si tienes cualquier duda o sugerencia, no dudes en abrir un issue en el repositorio. Si quieres ver otras vulnerabilidades, te dejo otros repositorios desarrollados con el mismo fin y siguiendo la misma metodología.
 
-[VulnerableLottery](https://github.com/MartinM10/VulnerableLottery)
+Repositorio de [@MartinM10](https://github.com/MartinM10) 🧑‍💻
+
+- [VulnerableLottery](https://github.com/MartinM10/VulnerableLottery)
+
+Repositorios de [@ManuelBD145](https://github.com/ManuelBD145) 🧑‍💻
+
+- [VulnerableDailyLimitWallet](https://github.com/ManuelBD145/Fondos)
+- [VulnerableBank](https://github.com/ManuelBD145/Bank)
 
 ## Agradecimientos 🧾
 
 Quiero agradecer a por los conocimientos que me proporcionaron y por la plantilla de guía que me brindaron en el repositorio [HackerWeekX-Web3-workshop](https://github.com/Marcolopeez/HackerWeekX-Web3-workshop.git)
 
-- 🦸 @Marcolopeez 📖 [Perfil de Github](https://github.com/Marcolopeez)
-- 🦸 @jcsec-security 📖 [Perfil de Github](https://github.com/jcsec-security)
+- 🦸 [@Marcolopeez](https://github.com/Marcolopeez)
+- 🦸 [@jcsec-security](https://github.com/jcsec-security)
